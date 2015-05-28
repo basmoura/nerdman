@@ -1,9 +1,17 @@
 @charset "utf-8";
 
+body {
+  background: url('../images/bg-paper.png')
+}
+
 .centered {
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.logo {
+  margin-bottom: 3em;
 }
 
 .animated {
